@@ -1,6 +1,9 @@
 # STATS 551 Project
 
 - [data](https://github.com/brodyee/STATS551_Project/tree/main/data): Contains all data files
+   - [sitecodeToSitename.csv](https://github.com/brodyee/STATS551_Project/blob/main/data/sitecodeToSitename.csv): Has the conversion from sitecode to sitename.
+   - [survCleanWithSameCols.csv](https://github.com/brodyee/STATS551_Project/blob/main/data/survCleanWithSameCols.csv): Has years 2005 to 2019 with only the columns that are common between all of them.
+   - [survCleanWithSomeNA](https://github.com/brodyee/STATS551_Project/blob/main/data/survCleanWithSomeNA.csv): Has years 2005 to 2019 with questions that dont have a lot of missing values.
 - [eda](https://github.com/brodyee/STATS551_Project/tree/main/eda): Has each persons eda files
 - [modeling](https://github.com/brodyee/STATS551_Project/tree/main/modeling): Has each persons modeling files
 - [report](https://github.com/brodyee/STATS551_Project/tree/main/report): Contains proposal and final report files
