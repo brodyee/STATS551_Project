@@ -5,11 +5,11 @@
    - [survCleanWithSameCols.csv](https://github.com/brodyee/STATS551_Project/blob/main/data/survCleanWithSameCols.csv): Has years 2005 to 2019 with only the columns that are common between all of them.
    - [survCleanWithSomeNA](https://github.com/brodyee/STATS551_Project/blob/main/data/survCleanWithSomeNA.csv): Has years 2005 to 2019 with questions that dont have a lot of missing values.
 - [eda](https://github.com/brodyee/STATS551_Project/tree/main/eda): Has each persons eda files
-   - [andrewsEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/andrewsEDA.ipynb): *QUICK SUMMARY*
+   - [andrewsEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/andrewsEDA.ipynb): Cleaning of datasets and basic EDA. 
    - [brodysEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/brodysEDA.ipynb): *QUICK SUMMARY*
    - [jamesEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/jamesEDA.ipynb): *QUICK SUMMARY*
 - [modeling](https://github.com/brodyee/STATS551_Project/tree/main/modeling): Has each persons modeling files
-   - [andrewsModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/andrewsModeling.ipynb): *QUICK SUMMARY*
+   - [andrewsModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/andrewsModeling.ipynb): Runs Gibbs sampler used to impute missing data. Analyzes posterior distributions, reports parameter summaries, model checking. 
    - [bambiMedImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiMedImpute.ipynb): *QUICK SUMMARY*
    - [bambiModelImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiModelImpute.ipynb): *QUICK SUMMARY*
    - [bambiNoNA.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiNoNA.ipynb): *QUICK SUMMARY*
