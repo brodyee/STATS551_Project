@@ -9,14 +9,14 @@
    - [brodysEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/brodysEDA.ipynb): *QUICK SUMMARY*
    - [jamesEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/jamesEDA.ipynb): *QUICK SUMMARY*
 - [modeling](https://github.com/brodyee/STATS551_Project/tree/main/modeling): Has each persons modeling files
-   - [andrewsModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/andrewsModeling.ipynb): *QUICK SUMMARY*
-   - [bambiMedImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/eda/bambiMedImpute.ipynb): *QUICK SUMMARY*
-   - [bambiModelImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/eda/bambiModelImpute.ipynb): *QUICK SUMMARY*
-   - [bambiNoNA.py](https://github.com/brodyee/STATS551_Project/tree/main/eda/bambiNoNA.ipynb): *QUICK SUMMARY*
-   - [brodysModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/brodysModeling.ipynb): *QUICK SUMMARY*
-   - [jamesModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/jamesModeling.ipynb): *QUICK SUMMARY*
-   - [noMissingDataScript.py](https://github.com/brodyee/STATS551_Project/tree/main/eda/noMissingDataScript.ipynb): *QUICK SUMMARY*
-   - [noMissingDataScriptExpMH.py](https://github.com/brodyee/STATS551_Project/tree/main/eda/noMissingDataScriptExpMH.ipynb): *QUICK SUMMARY*
+   - [andrewsModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/andrewsModeling.ipynb): *QUICK SUMMARY*
+   - [bambiMedImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiMedImpute.ipynb): *QUICK SUMMARY*
+   - [bambiModelImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiModelImpute.ipynb): *QUICK SUMMARY*
+   - [bambiNoNA.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiNoNA.ipynb): *QUICK SUMMARY*
+   - [brodysModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/brodysModeling.ipynb): *QUICK SUMMARY*
+   - [jamesModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/jamesModeling.ipynb): *QUICK SUMMARY*
+   - [noMissingDataScript.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScript.ipynb): *QUICK SUMMARY*
+   - [noMissingDataScriptExpMH.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScriptExpMH.ipynb): *QUICK SUMMARY*
 - [report](https://github.com/brodyee/STATS551_Project/tree/main/report): Contains proposal and final report files
 
 ---
