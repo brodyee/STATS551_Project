@@ -9,7 +9,7 @@ import pickle
 import multiprocessing as mp
 import statsmodels.api as sm
 
-n_jobs = 4#mp.cpu_count() - 2
+n_jobs = 4
 
 root = "../data/"
 survNoNA = pd.read_csv(root+"survCleanWithSameCols.csv", index_col=0).sort_values(["year", "sitecode"])
