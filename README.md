@@ -14,17 +14,17 @@
    - [SADCQMid200k.csv](https://github.com/brodyee/STATS551_Project/blob/0ccdb35b4628792af634d7cbf3b96f36f0988e5d/data/SADCQMid200k.csv): Has original data from CDC mid 200k
 - [eda](https://github.com/brodyee/STATS551_Project/tree/main/eda): Has each persons eda files
    - [andrewsEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/andrewsEDA.ipynb): Cleaning of datasets and basic EDA. 
-   - [brodysEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/brodysEDA.ipynb): *QUICK SUMMARY*
+   - [brodysEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/brodysEDA.ipynb): Cleaning of datasets, create car risk score, make tables for report, and simple EDA on clean data.
    - [jamesEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/jamesEDA.ipynb): Cleaning of datasets, violin distribution plots, numerical and categorical variables summary statistics
 - [modeling](https://github.com/brodyee/STATS551_Project/tree/main/modeling): Has each persons modeling files
    - [andrewsModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/andrewsModeling.ipynb): Runs Gibbs sampler used to impute missing data. Analyzes posterior distributions, reports parameter summaries, model checking. 
-   - [bambiMedImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiMedImpute.ipynb): *QUICK SUMMARY*
-   - [bambiModelImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiModelImpute.ipynb): *QUICK SUMMARY*
-   - [bambiNoNA.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiNoNA.ipynb): *QUICK SUMMARY*
-   - [brodysModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/brodysModeling.ipynb): *QUICK SUMMARY*
-   - [jamesModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/jamesModeling.ipynb): Build a complex random modeling with all two numerical variables having their grouped random effects
-   - [noMissingDataScript.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScript.ipynb): *QUICK SUMMARY*
-   - [noMissingDataScriptExpMH.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScriptExpMH.ipynb): *QUICK SUMMARY*
+   - [bambiMedImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiMedImpute.ipynb): Uses bambi to fit the one year median impute model. Ran on slurm.
+   - [bambiModelImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiModelImpute.ipynb): Uses bambi to fit the one year model impute model. Ran on slurm.
+   - [bambiNoNA.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiNoNA.ipynb): Uses bambi to fit the one year no impute model. Ran on slurm.
+   - [brodysModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/brodysModeling.ipynb): Sets up over the year model using pymc3 and the one year bambi models. 
+   - [jamesModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/jamesModeling.ipynb): Build a complex random modeling with all two numerical variables having their grouped random effects.
+   - [noMissingDataScript.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScript.ipynb): Over many years model made with pymc3. Ran on slurm.
+   - [noMissingDataScriptExpMH.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScriptExpMH.ipynb): Over many years model made with pymc3. Ran on slurm.
 - [report](https://github.com/brodyee/STATS551_Project/tree/main/report): Contains proposal and final report files
 
 ---
