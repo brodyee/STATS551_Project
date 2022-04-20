@@ -25,7 +25,7 @@
    - [jamesModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/jamesModeling.ipynb): Build a complex random modeling with all two numerical variables having their grouped random effects.
    - [noMissingDataScript.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScript.py): Over many years model made with pymc3. Ran on slurm.
    - [noMissingDataScriptExpMH.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScriptExpMH.py): Over many years model made with pymc3, ran with log link and uses metropolis hastings. Ran on slurm.
-- [report](https://github.com/brodyee/STATS551_Project/tree/main/report): Contains proposal and final report files
+- [report](https://github.com/brodyee/STATS551_Project/tree/main/report): Contains final report file
 
 ---
 # Literature Review
