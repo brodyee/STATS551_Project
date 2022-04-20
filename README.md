@@ -18,13 +18,13 @@
    - [jamesEDA.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/eda/jamesEDA.ipynb): Cleaning of datasets, violin distribution plots, numerical and categorical variables summary statistics
 - [modeling](https://github.com/brodyee/STATS551_Project/tree/main/modeling): Has each persons modeling files
    - [andrewsModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/andrewsModeling.ipynb): Runs Gibbs sampler used to impute missing data. Analyzes posterior distributions, reports parameter summaries, model checking. 
-   - [bambiMedImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiMedImpute.ipynb): Uses bambi to fit the one year median impute model. Ran on slurm.
-   - [bambiModelImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiModelImpute.ipynb): Uses bambi to fit the one year model impute model. Ran on slurm.
-   - [bambiNoNA.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiNoNA.ipynb): Uses bambi to fit the one year no impute model. Ran on slurm.
+   - [bambiMedImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiMedImpute.py): Uses bambi to fit the one year median impute model. Ran on slurm.
+   - [bambiModelImpute.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiModelImpute.py): Uses bambi to fit the one year model impute model. Ran on slurm.
+   - [bambiNoNA.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/bambiNoNA.py): Uses bambi to fit the one year no impute model. Ran on slurm.
    - [brodysModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/brodysModeling.ipynb): Sets up over the year model using pymc3 and the one year bambi models. 
    - [jamesModeling.ipynb](https://github.com/brodyee/STATS551_Project/tree/main/modeling/jamesModeling.ipynb): Build a complex random modeling with all two numerical variables having their grouped random effects.
-   - [noMissingDataScript.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScript.ipynb): Over many years model made with pymc3. Ran on slurm.
-   - [noMissingDataScriptExpMH.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScriptExpMH.ipynb): Over many years model made with pymc3. Ran on slurm.
+   - [noMissingDataScript.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScript.py): Over many years model made with pymc3. Ran on slurm.
+   - [noMissingDataScriptExpMH.py](https://github.com/brodyee/STATS551_Project/tree/main/modeling/noMissingDataScriptExpMH.py): Over many years model made with pymc3, ran with log link and uses metropolis hastings. Ran on slurm.
 - [report](https://github.com/brodyee/STATS551_Project/tree/main/report): Contains proposal and final report files
 
 ---
